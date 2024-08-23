@@ -1,6 +1,5 @@
 import { readFileSync } from "fs";
 import { EventEmitter } from "events";
-
 import type { PathOrFileDescriptor } from "fs";
 
 interface EventsMap {
